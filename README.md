@@ -1,2 +1,2 @@
 # Missingzone.pk
-Ovais Ghonchu
+A simple project for finding your love one
