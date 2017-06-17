@@ -1,0 +1,27 @@
+{
+  "name": "missingzone.pk",
+  "version": "1.0.0",
+  "description": "A Project build upon human needs ",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-ui-router": "~0.2.18"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Humayunarain/Missingzone.pk.git"
+  },
+  "author": "Humayun and co-partner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Humayunarain/Missingzone.pk/issues"
+  },
+  "homepage": "https://github.com/Humayunarain/Missingzone.pk#readme"
+}
