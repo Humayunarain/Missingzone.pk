@@ -1205,6 +1205,7 @@ output {
   padding: 7px 0;
   font-size: 14px;
   line-height: 1.42857;
+  
 }
 
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
@@ -1445,7 +1446,7 @@ output {
 }
 .form-group.is-focused label,
 .form-group.is-focused label.control-label {
-  color: #9c27b0;
+  color: #182a47;
 }
 .form-group.is-focused.label-placeholder label,
 .form-group.is-focused.label-placeholder label.control-label {
@@ -1483,6 +1484,7 @@ output {
 .form-group.has-success label.control-label,
 .form-group.has-success .help-block {
   color: #4caf50;
+  
 }
 .form-group.has-info .form-control {
   box-shadow: none;
